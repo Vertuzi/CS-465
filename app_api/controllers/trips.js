@@ -87,7 +87,7 @@ const tripsUpdateTrip = async(req, res) => {
     console.log(req.body);
     const q = await Model
     .findOneAndUpdate(
-    {‘code’: req.params.tripCode },
+    {'code': req.params.tripCode },
     {
     code: req.body.code,
     name: req.body.name,
