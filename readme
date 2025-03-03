@@ -1,1 +1,23 @@
+Architecture
 
+    Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+        Express HTML was used to build and format the layout of the pages within the website. Javascript was then used to allow the user to interact and move around the different pages. SPA provides a very different user experience than the other website as all the elements exist within one page which allows for the website to be more efficient and feel more seamless.
+    Why did the backend use a NoSQL MongoDB database?
+        One of the reasons that NoSQL MongoDB was used is that the file type is similar to that of Javascripts JSON this makes for an ease of transfer. 
+
+Functionality
+
+    How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
+        JSON is an important piece of the puzzle as it interacts with Javascript and allows us to tie the front end of Javascript to the database within Mongo.
+    Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+        The benefits of creating and having reusable user interface components is that it allows for you to save money and time in terms of development. This also lowers code complexity which means that updating it in the future can be easier as instead of having to update individual components you only have to update one.
+
+Testing
+
+    Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+        I believe get is the only one I used during the process of the project.
+    
+Reflection
+
+    How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+        This course has allowed me to learn how different types of languages and frameworks can be used together to create one project. This is something that was always known to me but being able to interact with it and actually do it hands on allowed me to gain understanding I hadn't previosuly had. If I were to continue to push myself to learn more about the stack I believe that I would become a very desirable canidate for a company to hire.
